@@ -18,6 +18,7 @@ public class DemoForGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hey its Eiknoor!");
+        System.out.println("hi");
          //Adding a comment
          //making another change
          
